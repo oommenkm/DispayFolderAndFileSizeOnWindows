@@ -8,7 +8,7 @@ DESCRIPTION
     The windows system yet to show the folder size in the windows explorer.
 
 DEPENDENCIES
-    This aplications requires Python Installed on you system.
+    This applications requires Python Installed on you system.
 
 PLATFORMS    
     Linux:
