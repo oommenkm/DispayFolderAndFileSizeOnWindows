@@ -7,7 +7,9 @@
 #
 # Created:     04/06/2011
 # Copyright:   (c) Oommen 2011
-# Licence:     <your licence>
+# Licence:     This library is free software; you can redistribute it and/or modify
+               it under the same terms as Python itself, either Python version 2.6 or,
+               at your option, any later version of Python you may have available.
 #-------------------------------------------------------------------------------
 """
 
